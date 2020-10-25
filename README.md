@@ -6,5 +6,7 @@
 <br/>
 ▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
 <img src="https://github-readme-stats.vercel.app/api?username=ijzosve&theme=cobalt&show_icons=true"/> 
-▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
+▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
+<br/>
+▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ijzosve&theme=cobalt&layout=compact&langs_count=10&hide=html,css"/>
