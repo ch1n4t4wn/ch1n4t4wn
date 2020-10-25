@@ -4,7 +4,7 @@
 - 兼职开发人员
 - 自闭症
 <br/>
-▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
+▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
 <img src="https://github-readme-stats.vercel.app/api?username=ijzosve&theme=cobalt&show_icons=true"/> 
 ▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ijzosve&theme=cobalt&layout=compact&langs_count=10&hide=html,css"/>
